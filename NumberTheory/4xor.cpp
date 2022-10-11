@@ -1,0 +1,3 @@
+/*
+to find the odd element in the given array.
+*/
